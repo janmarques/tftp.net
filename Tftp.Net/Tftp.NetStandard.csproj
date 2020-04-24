@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PackageId>Tftp.NetStandard2</PackageId>
+    <Authors>Tftp.NetStandard2</Authors>
+    <Product>Tftp.NetStandard2</Product>
+    <Description>Tftp.NetStandard2</Description>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+</Project>
